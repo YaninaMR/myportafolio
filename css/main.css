@@ -1,0 +1,41 @@
+/* Los estilos de tu proyecto */
+span.blue{
+ background-color: blue;	
+}
+
+.img-first{
+  opacity: 0.5;
+  background-image: url('../assets/images/me.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250vh;
+  width: 100%;
+  background-position: bottom;
+}
+.form-register{
+  position: relative;
+  color: #fff;
+  background-color: #f9eece;
+  margin-top: 25px;
+}
+img.initial{
+  width:25%;
+  height:25%;
+  border-radius: 30px;
+}
+
+.btn-register{
+  font-weight:300;
+  color: black;
+  background-color: #FFF; 
+}
+
+.center-text{
+  text-align: center;
+}
+
+img.center{
+  text-align: center;
+  padding: 5px;
+}
+
